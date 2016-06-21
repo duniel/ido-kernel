@@ -95,3 +95,4 @@ x509.genkey
 #duniel add
 .config
 .config*
+output/*
